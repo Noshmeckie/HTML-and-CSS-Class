@@ -25,11 +25,12 @@ h1 {
 	color: rgb(83, 104, 138);
 }
 h2 {
-	font: 3.2em Georgia, "Times New Roman", Times, serif;
+	font: 1.4em Verdana, Geneva, sans-serif;
 	margin-bottom: .2em;
 }
 h3 {
-	font-size: 1.2em;
+	font: 1.2em Verdana, Geneva, sans-serif;
+	margin-bottom: .2em;
 }
 p {
 	margin-bottom: 1em;
